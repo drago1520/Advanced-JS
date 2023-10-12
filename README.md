@@ -14,5 +14,6 @@ The Karel Robot exercise - https://stanford.edu/~cpiech/karel/ide.html
 Parameters and arguments, output & return ()
 Add JS to websites & DOM manipulation
 !!!!Separation of Concern
+IIFE functions.
 
 ***Not many evidences, since I wrote it badly in Chrome code snippets...
